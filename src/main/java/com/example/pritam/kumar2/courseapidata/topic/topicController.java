@@ -1,4 +1,4 @@
-package topic;
+package com.example.pritam.kumar2.courseapidata.topic;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

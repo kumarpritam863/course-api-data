@@ -1,4 +1,4 @@
-package topic;
+package com.example.pritam.kumar2.courseapidata.topic;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
